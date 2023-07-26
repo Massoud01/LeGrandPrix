@@ -1,1 +1,2 @@
 # LeGrandPrix
+Formula One is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile.This site was created by three big fans of Formula 1.You can find here everything you need to know about this sport since its Inaugural season in 1950.For more information or if there’s any issue, please contact our team: Melissa DIB EL OJAIMI : melissa.dibelojaimi@net.usj.edu.lb Massoud NOHRA : massoud.nohra@net.usj.edu.lb Elie IBRAHIM : elie.ibrahim2@net.usj.edu.lb
